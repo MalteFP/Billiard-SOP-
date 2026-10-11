@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dyr5cnpvilova"]
+
+[ext_resource type="Script" uid="uid://cqhubm8ouw8wa" path="res://table.gd" id="1_jd0nb"]
+
+[node name="table" type="Node2D" unique_id=920312274]
+script = ExtResource("1_jd0nb")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1367478762]
+position = Vector2(1153, 646)
